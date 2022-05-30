@@ -1,0 +1,27 @@
+#
+!main.cpp graphics.h keys_n_colors.h stdbool.h time.h #<#>
+AMOUNTOFCOLORS #<main.cpp>
+AMOUNTOFCOLUMNS #<main.cpp>
+AMOUNTOFDATA #<main.cpp>
+AMOUNTOFLINES #<main.cpp>
+EDGELENGTH #<main.cpp>
+HEIGHT #<main.cpp>
+WIDTH #<main.cpp>
+addNumber() -> void #<main.cpp>
+board : int[][] #<main.cpp>
+buff : inttopLeftY=35;char[] #<main.cpp>
+colors : int[][] #<main.cpp>
+drawCells() -> void #<main.cpp>
+dx : int[] #<main.cpp>
+dy : int[] #<main.cpp>
+gameContinuing : _Bool #<main.cpp>
+initButtons() -> void #<main.cpp>
+initNewGame() -> void #<main.cpp>
+isPossible(int i, int j, int nextI, int nextJ) -> _Bool #<main.cpp>
+loadData() -> void #<main.cpp>
+main() -> int #<main.cpp>
+menuButtons(int currStatus) -> int #<main.cpp>
+movingCell(int dir) -> void #<main.cpp>
+showAbout() -> void #<main.cpp>
+showRules() -> void #<main.cpp>
+topLeftX : int #<main.cpp>
